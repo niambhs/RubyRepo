@@ -17,5 +17,8 @@ The following document outlines the approach I took in creating my own release.
   
   
   ``` mkdir myRubyCode  ```
-  Needed to bring back up vm
+
+
+
+
   ``` vagrant up ```
