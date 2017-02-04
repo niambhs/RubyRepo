@@ -14,4 +14,8 @@ The following document outlines the approach I took in creating my own release.
 -	I added my class on to my git repository https://github.com/niambhs/RubyRepo.git
 -	So, question how do I connect my bosh release to the source in my git repo?
   1. Following the instructions in [add the sources](https://github.com/georgethebeatle/simple-bosh-release/blob/master/README.md#add-the-sources)
+  
+  
   ``` mkdir myRubyCode  ```
+  Needed to bring back up vm
+  ``` vagrant up ```
